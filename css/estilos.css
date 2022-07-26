@@ -1,0 +1,84 @@
+body{
+    background-color:white;
+}
+
+#inicio{
+    width: 400px;
+    margin: 150px auto;
+}
+
+#menu{
+    background-color: #3371FF;
+}
+
+#t{
+    background-color: #3371FF;
+}
+
+#ta{
+    background-color: #3371FF;
+}
+
+#menua{
+    background-color: #3371FF;
+}
+
+#m{
+   color: wheat;
+}
+
+#ma{
+    display: inline-block;
+    background-color: #3371FF;
+    color: white;
+    padding: 100px 500px;
+    text-decoration: none;
+}
+
+#mc{
+    width: 500px;
+    height: 300px;
+}
+
+#nc{
+    display: inline-block;
+    background-color: #3371FF;
+    color: white;
+    padding: 5px 300px;
+    text-decoration: none;
+}
+
+#ubicacion{
+    width: 32px;
+    height: 32px;
+}
+
+#campana{
+    width: 30px;
+    height: 30px;
+}
+
+#na{
+    color: white;
+}
+
+#mk{
+    display: inline-block;
+    background-color: #3371FF;
+    color: white;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+
+#d{
+    color: black;
+}
+
+#u{
+   box-shadow: 0 2px inset,
+   0px 0  inset,
+   0px 0  inset, 
+   0px 0  inset, 
+   0px 0  inset, 
+   0px 0  inset; 
+}
